@@ -1,0 +1,16 @@
+OrderID,OrderDate,Product,Category,Region,Quantity,UnitPrice
+1001,1/5/2024,Wireless Mouse,Electronics,West,2,800
+1002,1/6/2024,USB Keyboard,Electronics,East,1,1200
+1003,2/10/2024,Office Chair,Furniture,South,1,6500
+1004,2/12/2024,Desk Lamp,Furniture,North,3,900
+1005,3/15/2024,Notebook,Stationery,West,10,80
+1006,3/18/2024,Pen Set,Stationery,East,5,150
+1007,4/10/2024,Wireless Mouse,Electronics,South,3,800
+1008,5/1/2024,Office Chair,Furniture,West,2,6500
+1009,6/20/2024,USB Keyboard,Electronics,North,4,1200
+1010,7/5/2024,Desk Lamp,Furniture,East,2,900
+1011,8/14/2024,Notebook,Stationery,South,12,80
+1012,9/2/2024,Pen Set,Stationery,West,6,150
+1013,10/11/2024,Wireless Mouse,Electronics,North,5,800
+1014,11/22/2024,Office Chair,Furniture,East,1,6500
+1015,12/5/2024,USB Keyboard,Electronics,South,3,1200
